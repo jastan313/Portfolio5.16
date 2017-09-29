@@ -122,7 +122,6 @@ function validateSubject() {
 
     producePrompt('Valid', 'subject-error', 'green');
     return true;
-
 }
 
 function validateMessage() {
